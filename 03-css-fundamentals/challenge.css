@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #f7f7f7;
+    font-size: 22px;
+}
