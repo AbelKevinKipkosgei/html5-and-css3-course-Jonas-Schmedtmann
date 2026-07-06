@@ -22,6 +22,7 @@ h3,
 .shipping {
     color: #5d5d5d;
     font-size: 12px;
+    font-weight: bold;
 }
 
 a:link {
