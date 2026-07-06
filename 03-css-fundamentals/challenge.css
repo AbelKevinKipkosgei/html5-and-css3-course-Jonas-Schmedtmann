@@ -49,10 +49,12 @@ button {
     text-transform: uppercase;
     color: #ffffff;
     background-color: #000000;
+    cursor: pointer;
 }
 
 button:hover {
     color: #000000;
     background-color: #ffffff;
     border: none;
+    cursor: pointer;
 }
