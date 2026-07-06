@@ -39,3 +39,15 @@ a:hover {
 li {
     list-style-type: square;
 }
+
+button {
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #000000;
+}
+
+button:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border: none;
+}
