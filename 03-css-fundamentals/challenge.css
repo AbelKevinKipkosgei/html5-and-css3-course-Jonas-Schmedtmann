@@ -1,11 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: sans-serif;
     border: 4px #444444 solid;
 }
 
+/* .heading-container {
+    height: 70px;
+    background-color: #f7f7f7;
+} */
+
 h2 {
     text-align: center;
-    background-color: #f7f7f7;
 }
 
 h2,
