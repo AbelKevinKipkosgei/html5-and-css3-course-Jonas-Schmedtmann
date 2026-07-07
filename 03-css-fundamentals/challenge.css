@@ -4,6 +4,8 @@
 }
 
 body {
+    width: 800px;
+    margin: 20px auto;
     font-family: sans-serif;
     border: 4px #444444 solid;
 }
