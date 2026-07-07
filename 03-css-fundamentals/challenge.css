@@ -4,15 +4,15 @@
 }
 
 body {
-    width: 800px;
-    margin: 20px auto;
+    width: 820px;
+    margin: 50px auto;
     font-family: sans-serif;
     border: 4px #444444 solid;
 }
 
 .heading-container {
     background-color: #f7f7f7;
-    padding: 20px 0;
+    padding: 15px 0;
 }
 
 h2 {
@@ -79,16 +79,19 @@ li {
     margin-left: 20px;
 }
 
-button {
+.cart-button {
     text-transform: uppercase;
     color: #ffffff;
     background-color: #000000;
     cursor: pointer;
+    border: none;
+    width: 100%;
+    padding: 15px 0;
 }
 
-button:hover {
+.cart-button:hover {
     color: #000000;
     background-color: #ffffff;
-    border: none;
     cursor: pointer;
+    border-top: 4px solid #444444;
 }
