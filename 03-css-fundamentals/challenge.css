@@ -8,10 +8,10 @@ body {
     border: 4px #444444 solid;
 }
 
-/* .heading-container {
-    height: 70px;
+.heading-container {
     background-color: #f7f7f7;
-} */
+    padding: 20px 0;
+}
 
 h2 {
     text-align: center;
