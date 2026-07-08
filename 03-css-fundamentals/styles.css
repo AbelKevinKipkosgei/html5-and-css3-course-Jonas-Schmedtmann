@@ -31,6 +31,10 @@ nav a:link {
     margin-right: 30px;
 }
 
+nav a:link:last-child {
+    margin-right: 0;
+}
+
 article {
     margin-bottom: 60px;
 }
