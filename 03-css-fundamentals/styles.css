@@ -174,3 +174,8 @@ button {
     bottom: 50px;
     right: 50px;
 }
+
+h1::first-letter {
+    font-style: normal;
+    margin-right: 5px;
+}
