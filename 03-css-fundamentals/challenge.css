@@ -84,6 +84,10 @@ a:active {
     text-decoration: none;
 }
 
+.colors-container {
+    margin-bottom: 20px;
+}
+
 .black-option,
 .blue-option,
 .red-option,
