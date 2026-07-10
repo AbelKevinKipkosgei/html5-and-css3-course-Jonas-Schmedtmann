@@ -100,6 +100,10 @@ a:active {
     margin-right: 15px;
 }
 
+.brown-option {
+    margin-right: 0;
+}
+
 .black-option {
     background-color: #000000;
 }
