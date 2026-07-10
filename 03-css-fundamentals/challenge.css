@@ -84,12 +84,20 @@ a:active {
     text-decoration: none;
 }
 
-.black-option {
+.black-option,
+.blue-option,
+.red-option,
+.gold-option,
+.green-option,
+.brown-option {
     display: inline-block;
     height: 20px;
     width: 20px;
-    background-color: #000000;
     margin-right: 15px;
+}
+
+.black-option {
+    background-color: #000000;
 }
 
 h3 {
