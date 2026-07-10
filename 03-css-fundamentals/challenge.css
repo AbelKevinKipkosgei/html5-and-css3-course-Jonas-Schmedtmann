@@ -100,6 +100,26 @@ a:active {
     background-color: #000000;
 }
 
+.blue-option {
+    background-color: #0000ff;
+}
+
+.red-option {
+    background-color: #ff0000;
+}
+
+.gold-option {
+    background-color: #daa520;
+}
+
+.green-option {
+    background-color: #87d217;
+}
+
+.brown-option {
+    background-color: #a52a2a;
+}
+
 h3 {
     margin-bottom: 20px;
 }
