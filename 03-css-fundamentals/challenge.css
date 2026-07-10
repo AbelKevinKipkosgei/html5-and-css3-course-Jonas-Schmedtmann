@@ -11,6 +11,7 @@ body {
 }
 
 .heading-container {
+    position: relative;
     background-color: #f7f7f7;
     padding: 15px 0;
 }
@@ -22,6 +23,20 @@ h2 {
 h2,
 .price {
     font-size: 22px;
+}
+
+p.sale-tag {
+    display: inline-block;
+    position: absolute;
+    background-color: rgb(236, 52, 52);
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 10px;
+    padding: 5px 10px;
+    letter-spacing: 2px;
+    top: -12px;
+    left: -28px;
 }
 
 .image-post {
