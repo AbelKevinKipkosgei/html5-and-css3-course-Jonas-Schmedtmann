@@ -200,7 +200,7 @@ h2::after {
 }
 
 /* Floats */
-.author-img {
+/*.author-img {
     float: left;
     margin-bottom: 20px;
 }
@@ -238,4 +238,4 @@ aside {
 
 footer {
     clear: both;
-}
+}*/
