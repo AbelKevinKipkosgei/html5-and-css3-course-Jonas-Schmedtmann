@@ -256,3 +256,15 @@ footer {
     margin-bottom: 0;
     margin-left: 15px;
 }
+
+.related-post {
+    display: flex;
+    align-items: center;
+}
+
+.related-author {
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: italic;
+}
