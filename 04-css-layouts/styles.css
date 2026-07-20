@@ -238,3 +238,10 @@ aside {
 footer {
     clear: both;
 }*/
+
+/* FLEXBOX */
+.main-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
