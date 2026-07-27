@@ -42,6 +42,7 @@ p.sale-tag {
 
 .main-container {
     display: flex;
+    gap: 40px;
 }
 
 .image-wrapper {
@@ -62,7 +63,7 @@ p.sale-tag {
     /* width: 240px;
     margin: 20px 0 0 40px; */
     flex: 1;
-    margin: 20px 0 0 40px;
+    margin-top: 20px;
 }
 
 /* .description-container {
