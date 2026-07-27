@@ -52,6 +52,7 @@ p.sale-tag {
 }
 
 .image-post {
+    display: block;
     width: 100%;
     height: auto;
 }
