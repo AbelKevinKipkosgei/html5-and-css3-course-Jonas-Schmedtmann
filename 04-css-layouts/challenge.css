@@ -124,6 +124,7 @@ a:active {
 
 .colors-container {
     display: flex;
+    gap: 15px;
 }
 
 .black-option,
@@ -135,11 +136,6 @@ a:active {
     /* display: inline-block; */
     height: 15px;
     width: 15px;
-    margin-right: 15px;
-}
-
-.brown-option {
-    margin-right: 0;
 }
 
 .black-option {
