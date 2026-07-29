@@ -40,17 +40,17 @@ p.sale-tag {
     left: -28px;
 }
 
-.main-container {
+/* .main-container {
     display: flex;
     gap: 40px;
 }
 
 .image-wrapper {
-    /* float: left;
+    float: left;
     width: 250px;
-    height: auto; */
+    height: auto;
     flex: 1;
-}
+} */
 
 .image-post {
     display: block;
