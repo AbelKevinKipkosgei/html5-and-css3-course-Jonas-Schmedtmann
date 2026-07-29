@@ -300,6 +300,7 @@ aside {
 .container {
     display: grid;
     grid-template-columns: 1fr 300px;
+    column-gap: 75px;
 }
 
 .main-header {
