@@ -311,7 +311,9 @@ aside {
 
 article {}
 
-aside {}
+aside {
+    align-self: start;
+}
 
 footer {
     grid-column: 1 / -1;
