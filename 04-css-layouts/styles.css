@@ -311,4 +311,6 @@ article {}
 
 aside {}
 
-footer {}
+footer {
+    grid-column: 1 / -1;
+}
