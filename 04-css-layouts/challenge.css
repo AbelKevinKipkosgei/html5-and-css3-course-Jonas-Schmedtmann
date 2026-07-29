@@ -185,6 +185,7 @@ li {
     border: none;
     width: 100%;
     padding: 15px 0;
+    grid-column: 1 / -1;
 }
 
 .cart-button:hover {
