@@ -279,7 +279,7 @@ footer {
     font-style: italic;
 }
 
-.row {
+/* .row {
     display: flex;
     gap: 75px;
     margin-bottom: 60px;
@@ -293,4 +293,15 @@ article {
 
 aside {
     flex: 0 0 300px
-}
+} */
+
+/* CSS GRID LAYOUT */
+.container {}
+
+.main-header {}
+
+header {}
+
+article {}
+
+footer {}
