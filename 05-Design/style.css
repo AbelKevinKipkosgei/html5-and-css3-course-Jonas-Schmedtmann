@@ -82,7 +82,10 @@ img {
   font-size: 20px;
 }
 
-.features-text {}
+.features-text {
+  font-size: 18px;
+  line-height: 1.6;
+}
 
 /* TESTIMONIAL */
 .testimonial-section {}
