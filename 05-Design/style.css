@@ -119,7 +119,11 @@ img {
 }
 
 /* TESTIMONIAL */
-.testimonial-section {}
+.testimonial-section {
+  background-color: #087f5b;
+  color: #fff;
+  padding: 24px;
+}
 
 .testimonial-box {
   grid-column: 2 / -1;
