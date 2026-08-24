@@ -107,7 +107,9 @@ img {
 }
 
 /* FEATURES */
-.features-icon {}
+.features-icon {
+  stroke: #087f5b;
+}
 
 .features-title {
   margin-bottom: 16px;
